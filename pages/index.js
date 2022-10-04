@@ -120,7 +120,7 @@ export default function Home() {
         </TopCenter>
       </Top>
       <p style={{ display: 'flex', textAlign: 'center', justifyContent: 'center', marginTop: "2%" }}>
-        for a simpler use case, select the video in the `public` directory of this project.
+        for a simpler use case, you can use the following: {' '} <a href = "https://res.cloudinary.com/dogjmmett/video/upload/v1664908086/sample_hv6djp.mp4">video</a>.
       </p >
 
       <Container>
